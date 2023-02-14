@@ -1,0 +1,1 @@
+g++ -o "/mnt/g/VariationMutation/VirusAntibodyEscape/LinuxPipeline/SelectiveCoEfficient/Script/SeqFindMeta/bin/x64/Debug/SeqFindMeta.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /mnt/g/VariationMutation/VirusAntibodyEscape/LinuxPipeline/SelectiveCoEfficient/Script/SeqFindMeta/obj/x64/Debug/main.o

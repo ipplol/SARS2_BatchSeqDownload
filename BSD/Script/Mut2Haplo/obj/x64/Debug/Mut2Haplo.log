@@ -1,0 +1,20 @@
+﻿  正在启动远程生成
+  正在编译源:
+  main.cpp
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(33,19): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(36,19): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<int>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(30,12): warning : unused variable ‘j’ [-Wunused-variable]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(30,15): warning : unused variable ‘k’ [-Wunused-variable]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(78,27): warning : conversion from ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(89,58): warning : comparison of integer expressions of different signedness: ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} and ‘int’ [-Wsign-compare]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(76,12): warning : unused variable ‘j’ [-Wunused-variable]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(128,19): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<std::__cxx11::basic_string<char> >::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(131,31): warning : conversion from ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(142,63): warning : comparison of integer expressions of different signedness: ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} and ‘int’ [-Wsign-compare]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(147,19): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(184,23): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::vector<std::__cxx11::basic_string<char> >::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(164,12): warning : unused variable ‘j’ [-Wunused-variable]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(164,15): warning : unused variable ‘k’ [-Wunused-variable]
+G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\main.cpp(210,22): warning : conversion from ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+  正在链接对象
+  Mut2Haplo.vcxproj -> G:\VariationMutation\VirusAntibodyEscape\LinuxPipeline\SelectiveCoEfficient\Script\Mut2Haplo\bin\x64\Debug\Mut2Haplo.out
